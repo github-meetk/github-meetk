@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-meetk&show_icons=true&locale=en&layout=compact" alt="github-meetk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=github-meetk&show_icons=true&locale=en" alt="github-meetk" /></p>
