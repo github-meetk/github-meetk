@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Meet Kalathiya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
-- 🌱 I’m currently learning **Web socket**
-
-- 💬 Ask me about **React and Javascript**
+ 
+- 🌱 Currently learning T3 Stack
+   
+- 💬 Ask me about **Typescript and Nextjs**
 
 - 📫 How to reach me **meetkalathiya012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meet-kalathiya" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg)" alt="www.linkedin.com/in/meet-kalathiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meet-kalathiya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/meet-kalathiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3><br>
